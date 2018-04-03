@@ -1,5 +1,5 @@
-# portfolio
-김지훈 포트폴리오
+# PORTFOLIO
+안드로이드, C++ 개발자입니다
 
 PackRiding
 ============
