@@ -12,9 +12,9 @@ PackRiding
 로드 자전거를 구매하게 되었는데 여러 사람들과 함께 타기 위해 애플리케이션을 만들었습니다.
 앱 스토어에 등록 후 라이딩 기록,  멤버 간 실시간 주행 위치 확인 기능 등을 추가할 예정입니다.
 
-*안드로이드 <https://github.com/pennya/ridecrew_client>
+[Pack Riding 안드로이드 프로젝트 보기](https://github.com/pennya/ridecrew_client)
 
-*스프링부트 <https://github.com/pennya/spring_boot_ridecrew>
+[Pack Riding 스프링부트 프로젝트 보기](https://github.com/pennya/spring_boot_ridecrew)
 
 
 [프로젝트 인원]
@@ -39,7 +39,7 @@ PackRiding
 출발지에서 목적지까지 국내 여행길의 관광정보를 제공하는 애플리케이션 개발
 지정된 위치 반경으로 정보를 제공하는 애플리케이션들과는 차별성 있게 출발지부터 목적지 사이의 정보만 제공하는 애플리케이션을 만들었습니다.
 
-*안드로이드 <https://github.com/pennya/herethere>
+[여기저기 안드로이드 프로젝트 보기](https://github.com/pennya/herethere)
 
 [프로젝트 인원]
 팀 리더, 기획, 서버 개발자, 안드로이드(본인), IOS 개발자 총 5명
