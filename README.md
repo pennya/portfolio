@@ -152,7 +152,7 @@ C++/MFC
 팀장, 기획, 팀원(본인) 총 3명
 
 [본인 역할]
-- 화면 캡쳐 방지 API 개발
-- 가상 OS, 원격 터미털 탐지 및 차단하는 API 개발
-- MVVM 아키텍처 패턴을 이용한 워터마크 개발
-- 관리자 페이지 연동
+- Adobe Reader, open source PDF viewer Hooking DLL 개발
+- 클립보드 복사 방지, 프린트 인쇄 방지 기능 개발
+- ActiveX 대체하기 위한 exe 설치 형 Non ActiveX 서비스 개발
+- HTTPS SSL 인증서 적용
