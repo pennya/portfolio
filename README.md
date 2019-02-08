@@ -12,6 +12,13 @@
 
 [안드로이드 프로젝트 보기](https://github.com/pennya/GudiCafeteria)
 
+![image1](./images/cafeteria1.PNG)
+![image2](./images/cafeteria2.PNG)
+![image3](./images/cafeteria3.PNG)
+![image4](./images/cafeteria4.PNG)
+![image5](./images/cafeteria5.PNG)
+![image6](./images/cafeteria6.PNG)
+
 [프로젝트 인원]
 안드로이드 1명, 백앤드 1명
 
