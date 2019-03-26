@@ -1,6 +1,34 @@
 # PORTFOLIO
 
 
+다모여커뮤니티
+-------------
+[프로젝트 기간]
+2019-02 ~ 2019-03
+
+[프로젝트 내용]
+눈팅족들을 위한 각 커뮤니티 사이트의 인기, 베스트, 추천 게시글만 모은 앱
+
+[구글 플레이 스토어 바로가기](http://bit.ly/2CFQEDF)
+
+![image1](./images/allcommunity1.jpg)
+![image2](./images/allcommunity2.jpg)
+![image3](./images/allcommunity3.jpg)
+![image4](./images/allcommunity4.jpg)
+![image5](./images/allcommunity5.jpg)
+
+
+[프로젝트 인원]
+안드로이드 1명
+
+[본인 역할]
+- Kotlin + MVVM + LiveData
+- Pull to Refresh Layout Custom
+- Jsoup을 이용한 커뮤니티 게시판 Parsing
+- Drag & Drop 을 이용한 게시판 순서 조절
+- 카카오 링크를 이용한 공유
+
+
 
 구내식당앱
 -------------
@@ -8,7 +36,7 @@
 2018-09-01 ~ 2019-01-01
 
 [프로젝트 내용]
-특정 지역 구내식당 리스트와 메뉴를 확인할 수 있는 Application.
+특정 지역 구내식당 리스트와 메뉴를 확인할 수 있는 앱.
 
 [안드로이드 프로젝트 보기](https://github.com/pennya/GudiCafeteria)
 
