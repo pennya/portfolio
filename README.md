@@ -1,5 +1,27 @@
 # PORTFOLIO
 
+CLAY
+-------------
+[프로젝트 기간] 
+2021-01 ~ 2021-04
+
+[프로젝트 내용] 
+유튜브 크리에이터를 위한 판매 스토어 앱
+
+[CLAY 소개 페이지](https://criyou.com/)
+[구글 플레이 스토어 바로가기](https://play.google.com/store/apps/details?id=com.criyou.clay)
+[애플 스토어 바로가기](https://apps.apple.com/us/app/%ED%81%B4%EB%A0%88%EC%9D%B4/id1524293459)
+
+
+[프로젝트 인원] 안드로이드 2명
+
+[본인 역할]
+- Flutter, Dart, Provider
+- 스플레시 화면, 메인화면, 상세화면, 프로필 화면, 필터 UI 개발 및 기능 구현
+- 플랫폼(Android, iOS) 별 로그인, 권한 획득 기능
+- firebase 환경 구축 및 연동
+
+
 
 다모여커뮤니티
 -------------
