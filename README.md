@@ -12,12 +12,12 @@ CLAY
 [구글 플레이 스토어 바로가기](https://play.google.com/store/apps/details?id=com.criyou.clay)
 [애플 스토어 바로가기](https://apps.apple.com/us/app/%ED%81%B4%EB%A0%88%EC%9D%B4/id1524293459)
 
-![image1](./images/clay1.jpg)
-![image2](./images/clay2.jpg)
-![image3](./images/clay3.jpg)
-![image4](./images/clay4.jpg)
-![image5](./images/clay5.jpg)
-![image6](./images/clay6.jpg)
+![image1](./images/clay1.png)
+![image2](./images/clay2.png)
+![image3](./images/clay3.png)
+![image4](./images/clay4.png)
+![image5](./images/clay5.png)
+![image6](./images/clay6.png)
 
 
 
